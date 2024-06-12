@@ -27,7 +27,7 @@ I am a student who enjoys front-end development.
 
 ### Visitor Count
 
-![Visitor Count](https://komarev.com/ghpvc/?username=yaseel&color=blue&style=flat-square)
+![Visitor Badge](https://visitor-badge.lithub.cc/badge?page_id=yaseel)
 
 <p align="center">
   <img src="https://i.giphy.com/3ov9jWu7BuHufyLs7m.webp" width="500" alt="Cool Animation">
