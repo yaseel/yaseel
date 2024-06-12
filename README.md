@@ -25,10 +25,6 @@ I am a student who enjoys front-end development.
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseel&layout=compact&theme=radical)
 
-### Visitor Count
-
-![Visitor Badge](https://visitor-badge.lithub.cc/badge?page_id=yaseel)
-
 <p align="center">
   <img src="https://i.giphy.com/3ov9jWu7BuHufyLs7m.webp" width="500" alt="Cool Animation">
 </p>
