@@ -29,4 +29,6 @@ I am a student who enjoys front-end development.
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=yaseel&color=blue&style=flat-square)
 
-<div align="center" style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/3ov9jWu7BuHufyLs7m" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<p align="center">
+  <img src="https://i.giphy.com/3ov9jWu7BuHufyLs7m.webp" width="500" alt="Cool Animation">
+</p>
