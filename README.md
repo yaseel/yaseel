@@ -1,16 +1,32 @@
-## Hi there 👋
+### About Me
 
-<!--
-**yaseel/yaseel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello I am Aseel.
 
-Here are some ideas to get you started:
+I am a student who enjoys front-end development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on web designs.
+- 🌱 I’m currently learning JavaScript and React.
+- 👯 I’m open minded on collaborations.
+- 📫 How to reach me: aseelmahmood12@gmail.com
+
+### Skills
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-EDD222?style=flat-square&logo=javascript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=white)
+
+### GitHub Stats
+
+![yaseel GitHub Stats](https://github-readme-stats.vercel.app/api?username=yaseel&show_icons=true&theme=radical)
+
+### Top Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yaseel&layout=compact&theme=radical)
+
+### Visitor Count
+
+![Visitor Count](https://komarev.com/ghpvc/?username=yaseel&color=blue&style=flat-square)
+
+<div align="center" style="width:100%;height:0;padding-bottom:66%;position:relative;"><iframe src="https://giphy.com/embed/3ov9jWu7BuHufyLs7m" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
