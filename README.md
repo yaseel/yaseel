@@ -4,8 +4,8 @@ Hello I am Aseel.
 
 I am a student who enjoys front-end development.
 
-- 🔭 I’m currently working on web designs.
-- 🌱 I’m currently learning JavaScript and React.
+- 🔭 I’m currently working on Game Development.
+- 🌱 I’m currently learning C.
 - 👯 I’m open minded on collaborations.
 - 📫 How to reach me: aseelmahmood12@gmail.com
 
