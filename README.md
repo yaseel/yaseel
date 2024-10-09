@@ -5,7 +5,7 @@ Hello I am Aseel.
 I am a student who enjoys front-end development.
 
 - 🔭 I’m currently working on Game Development.
-- 🌱 I’m currently learning C.
+- 🌱 I’m currently learning lots of things.
 - 👯 I’m open minded on collaborations.
 - 📫 How to reach me: aseelmahmood12@gmail.com
 
