@@ -2,7 +2,7 @@
 
 Hello I am Aseel.
 
-I am a student who enjoys front-end development.
+I am a student who enjoys learning all areas of software engineering.
 
 - 🔭 I’m currently working on NepKey and Game Development.
 - 🌱 I’m currently learning lots of things.
